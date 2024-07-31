@@ -9,7 +9,7 @@ This is a simple Telegram bot that showcases a personal resume/CV. It uses Pytho
 1. Clone the repository:
     ```bash
     git clone 
-    https://github.com/yourusername/telegram-cv-bot.git
+    https://github.com/Sumitsonawane30/CV_Telegram_Bot
     cd telegram-cv-bot
     ```
 
